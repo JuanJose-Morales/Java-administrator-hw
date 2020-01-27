@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 //Juan Jose Morales
-//Chapter 7 Assignment 1
+
 
 public class Administrator extends SalariedEmployee {
 
